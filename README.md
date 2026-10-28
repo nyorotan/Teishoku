@@ -5,6 +5,7 @@
 
 - A Windows app that displays copied Japanese text with ruby (furigana).
 - Copy or cut text from a webpage or text document to display it with ruby.
+- The scroll positions of the plain-text and ruby-text panes stay synchronized.
 - The app's bar is displayed along the edge of the desktop, like a taskbar.
 - Place the bar along any edge of the screen and show or hide it as needed.
 - Includes a tagged-copy feature useful for writing HTML, Aozora Bunko, and other formats.
@@ -140,7 +141,7 @@ This project is released under the MIT License. You are free to use it for comme
 
 ## Version
 
-- **Version:** v1.0.0
+- **Version:** v1.0.1
 - **Author:** nyorotan
 
 ![](assets/01_result.jpg)
